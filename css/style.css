@@ -107,7 +107,7 @@ span.m-left {
   font-size: 0.8rem;
   letter-spacing: 2px;
   position: relative;
-  top: 70px;
+  top: 40px;
   overflow: hidden;
   transition: 0.5s;
   display: inline-block;
@@ -164,6 +164,7 @@ span.m-left {
 
 .about-me-info p {
   font-size: 1.3rem;
+  text-align: left;
   color: #bebebe;
 }
 
